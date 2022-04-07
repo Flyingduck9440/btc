@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land-hdpi/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land-ldpi/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land-mdpi/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land-xhdpi/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land-xxhdpi/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land-xxxhdpi/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-land/activity_main.xml" value="0.30687830687830686" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-hdpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-ldpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-ldpi/low_pt.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-mdpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-xhdpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-xxhdpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-port-xxxhdpi/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-sw600dp/item_list.xml" value="0.33" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout-sw600dp/item_list_2.xml" value="0.271875" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout/item_list.xml" value="0.5318021201413428" />
+        <entry key="..\:/Users/james/Desktop/linemanintern/app/src/main/res/layout/item_list_2.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
